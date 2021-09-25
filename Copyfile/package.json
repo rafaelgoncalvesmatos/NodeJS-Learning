@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cli-autocomplete": "^0.4.3"
+  }
+}
